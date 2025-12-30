@@ -80,6 +80,10 @@ Deployment
 
 The application is deployed using Streamlit Cloud. The deployment allows real-time prediction through a web-based interface accessible via a public URL.
 
+🚀 Live Demo
+
+🔗 https://epicals-diabetes-predictor-e6v8xeo2qxmtuuoewfvymu.streamlit.app/
+
 Use Cases
 
 • Academic mini or major project
